@@ -1,0 +1,189 @@
+{
+  "format_version": 1,
+  "package": "ths-reader-v0.1.1",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size": 84,
+      "sha256": "baed473f67a322fe6bcaa20676ea83f9d51497a33bd3f0405e647f3e5a527a96"
+    },
+    {
+      "path": ".gitignore",
+      "size": 116,
+      "sha256": "fdd356945aaf5b2973faacda5602e77d79a459c9e8b3e9a9243c8ef669c09a3f"
+    },
+    {
+      "path": "README.md",
+      "size": 2721,
+      "sha256": "8ddec8525cff7d34a82606b2c2f5451c49f6c6d5543827b77bfb96ef9223a00b"
+    },
+    {
+      "path": "REVIEW.md",
+      "size": 2460,
+      "sha256": "48454c0e09f069752bb98f0a3e625bf6e770374ee579eee7836121442c6d68ae"
+    },
+    {
+      "path": "SKILL.md",
+      "size": 3709,
+      "sha256": "22eef7895ae8aa9c1062d9a1b6de75a25eb21f3a65a1887ea404dfb513eecb1c"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "size": 641,
+      "sha256": "86d51b154bfe569ec7852eaa63fd1a27b6632e43b67bbe9d20a4d14cb15472f6"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "size": 302,
+      "sha256": "8cb761131a8ab1b021413320765964c261bf2f3ad8dbb5c00fea5410f8a3c796"
+    },
+    {
+      "path": "install.ps1",
+      "size": 3191,
+      "sha256": "e515fa7cbe14a9a4da6aed85b15af41d19959556d91d0c71b8a4f8c6a77d8a25"
+    },
+    {
+      "path": "native-probe/QuoteBridge.cs",
+      "size": 13254,
+      "sha256": "358087fa84355285a5e93f44f6e8f1f180af0d47ec5a103035a179a5e349a377"
+    },
+    {
+      "path": "native-probe/QuoteBridge.runtimeconfig.json",
+      "size": 140,
+      "sha256": "29c0ed54ac81308c26a04126570e6988daee96adc397e4843d9f4c53d3bd6827"
+    },
+    {
+      "path": "native-probe/TrendReader.cs",
+      "size": 11936,
+      "sha256": "e3d05ed2d9ad0d54fd82afb238bb7ced74a1c8a41b90e8e626d0fedf426d7a49"
+    },
+    {
+      "path": "native-probe/account_readonly.js",
+      "size": 7084,
+      "sha256": "fc1e627d07f02a0b3908ace511c8a8a3d4a50a3b69968b3268de2f16e1d8792a"
+    },
+    {
+      "path": "native-probe/read_account_probe.py",
+      "size": 8011,
+      "sha256": "fb340931a415eabcd3605581c7ec9b846f3796cd2788bbfca48db0642470741b"
+    },
+    {
+      "path": "native-probe/read_quote_probe.py",
+      "size": 8303,
+      "sha256": "f66b61d25a9221941097967d5c258e65461aa7395c2bb5e727e918bfb09f3ebd"
+    },
+    {
+      "path": "native-probe/read_ths.py",
+      "size": 11762,
+      "sha256": "0c157f6898ea9ec4c33b3c8865337801eb8eef85a90162a00c1f45c5c9e4da15"
+    },
+    {
+      "path": "native-probe/reader_config.py",
+      "size": 910,
+      "sha256": "62abfad9d14151d6ce166dbf5773054756b11a26d5ae9729dd6d01af08ee5c4d"
+    },
+    {
+      "path": "native-probe/summarize_snapshot.py",
+      "size": 8375,
+      "sha256": "9fdc3776ab04737bf9fedbf4022a05fb479cb0f64ff42b359714901563ca0baa"
+    },
+    {
+      "path": "native-probe/verify_quote_sample.py",
+      "size": 10572,
+      "sha256": "604f3ffb499945b3242dea0c00aae8538054a1afd33d757c57264a91a958a358"
+    },
+    {
+      "path": "native-probe/verify_trend_sample.py",
+      "size": 10349,
+      "sha256": "f20827b94e758cdefc06131778de1ad6554c9668590314fd0181cb3062855e04"
+    },
+    {
+      "path": "native-work/quote-bridge/query-general-v4/QuoteBridge.cs",
+      "size": 12105,
+      "sha256": "08b53c3d0effef055f88340f83f24c18cab7739d8018d0e8fc5d2e952d3bf868"
+    },
+    {
+      "path": "native-work/quote-bridge/query-general-v4/ThsQuoteBridge.dll",
+      "size": 33792,
+      "sha256": "ba9ae2ad45821dc3c452b7671839c511f7a46b635605b4a4ab48470373cef758"
+    },
+    {
+      "path": "native-work/quote-bridge/trend-query-v5/QuoteBridge.cs",
+      "size": 13254,
+      "sha256": "358087fa84355285a5e93f44f6e8f1f180af0d47ec5a103035a179a5e349a377"
+    },
+    {
+      "path": "native-work/quote-bridge/trend-query-v5/ThsQuoteBridge.dll",
+      "size": 62976,
+      "sha256": "8c494bd5a0b54a6ba75f3c947720d299ae105dfceb8aae74d4375f93cb6762fd"
+    },
+    {
+      "path": "native-work/quote-bridge/trend-query-v5/TrendReader.cs",
+      "size": 11936,
+      "sha256": "e3d05ed2d9ad0d54fd82afb238bb7ced74a1c8a41b90e8e626d0fedf426d7a49"
+    },
+    {
+      "path": "reader-config.example.json",
+      "size": 115,
+      "sha256": "bd1570e8cfb9547e1e4fb0d4ab0f0ab061d5901ae754d9f8eb487b31ccf88fc4"
+    },
+    {
+      "path": "references/setup.md",
+      "size": 4588,
+      "sha256": "d0162631437c2fb1922ead54484d946d32e0c60acf64206bac7c4cdf3054b470"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 14,
+      "sha256": "7ab2fc8d44de9a3927292fac709adc6af87b890431db3bb104f9b9e893200a7d"
+    },
+    {
+      "path": "scripts/check_release.py",
+      "size": 4825,
+      "sha256": "325133f71e85c21b1c0d42c0bbd5f63663cf5c73412dd99ee50c85204566d387"
+    },
+    {
+      "path": "scripts/doctor.py",
+      "size": 3180,
+      "sha256": "94062e3f7888bc8e3b431fb4fed70cc0817bf8715a7aa15a691d8ba8a4294e8c"
+    },
+    {
+      "path": "scripts/invoke_reader.ps1",
+      "size": 1513,
+      "sha256": "8ac1196e344dfaa037c86a3ce054ab90f050cad8142b28fc41f5bbb8a3e1e3a1"
+    },
+    {
+      "path": "scripts/test_offline.py",
+      "size": 4264,
+      "sha256": "273a58335a4e2c9fa03f008387c905b767cf0285e3acd57f20090d78f7247bd6"
+    },
+    {
+      "path": "scripts/update_manifest.py",
+      "size": 1148,
+      "sha256": "821b408eea16fb92909e957ac710e3aa8dd3dc87483d6f2a2d70a3aed3842836"
+    },
+    {
+      "path": "supported-profile.json",
+      "size": 1056,
+      "sha256": "a67f7f79b3ff50455238ef2ae0a0668c6000c731ad1b3c1ed9df414d1848c861"
+    },
+    {
+      "path": "vendor/FRIDA-COPYING",
+      "size": 2466,
+      "sha256": "803b8b5aa4151030221b3c3f71a645da6241938421e49901444a79e5cca75fa8"
+    },
+    {
+      "path": "vendor/wheels/frida-17.5.1-cp37-abi3-win_amd64.whl",
+      "size": 41800874,
+      "sha256": "7efdeb7e95c8e025517e203c2d1121c9eb07c9a3f33a1312ed5960c757e2fe98"
+    }
+  ],
+  "excluded": [
+    "Account data and logs",
+    "Personal finance files",
+    "Local configuration",
+    "Client binaries",
+    "Private evidence and Git metadata"
+  ],
+  "dependency_policy": "Original Frida wheel included for offline target-local installation"
+}

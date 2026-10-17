@@ -1,0 +1,4 @@
+interface:
+  display_name: "同花顺只读读取"
+  short_description: "按需读取资金持仓和沪深股票ETF的日周月K线及本地MA、MACD指标"
+  default_prompt: "使用 $ths-reader 读取本机同花顺账户或指定证券行情，说明数据日期、结果路径和未核实事项。"

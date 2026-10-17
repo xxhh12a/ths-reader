@@ -1,0 +1,2 @@
+# Preserve package bytes: installation validates SHA-256 on every platform.
+* -text

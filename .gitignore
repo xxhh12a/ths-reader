@@ -1,0 +1,11 @@
+private/
+reader-config.json
+native-work/python-deps/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.log
+*.pdb
+*.dmp

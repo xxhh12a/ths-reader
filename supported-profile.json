@@ -1,0 +1,32 @@
+{
+  "profile": "ths-yuanhang-verified-20261017",
+  "python_min": [3, 11],
+  "python_bits": 64,
+  "client_bits": 32,
+  "frida_version": "17.5.1",
+  "client_files": {
+    "account": {
+      "path": "transaction/xiadan.exe",
+      "sha256": "08d7752ebd4019f80e3e6c5b7b40482e1d10f67a95590cdb5f470b586155d555"
+    },
+    "quote": {
+      "path": "bin/happ.exe",
+      "sha256": "aadcc88f35af1a5de83bcf181664ec12dd0116fc343064123cbbde0b1a756978"
+    },
+    "quotes_assembly": {
+      "path": "bin/Hevo.Api.Quotes.dll",
+      "sha256": "a2068f022ef1e6cdf1e228cbde7ccbb85f21810f9121a18437162bb2a42379fe",
+      "mvid": "43e5a11b-557e-4dbd-94cf-872ca400cbed"
+    }
+  },
+  "additional_bridges": {
+    "trend_bridge": {
+      "path": "native-work/quote-bridge/trend-query-v5/ThsQuoteBridge.dll",
+      "sha256": "8c494bd5a0b54a6ba75f3c947720d299ae105dfceb8aae74d4375f93cb6762fd"
+    }
+  },
+  "bridge": {
+    "path": "native-work/quote-bridge/query-general-v4/ThsQuoteBridge.dll",
+    "sha256": "ba9ae2ad45821dc3c452b7671839c511f7a46b635605b4a4ab48470373cef758"
+  }
+}
